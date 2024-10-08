@@ -1,3 +1,6 @@
+#Link Sonar
+[link](https://sonarcloud.io/project/overview?id=magdalena79_darkchess-actions-mpereyra)
+
 # Darkchess
 
 Chess with Fog of War. 
