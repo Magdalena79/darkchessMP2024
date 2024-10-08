@@ -1,5 +1,8 @@
-#Link Sonar
-[link](https://sonarcloud.io/project/overview?id=magdalena79_darkchess-actions-mpereyra)
+#Links Sonar
+[GitHub Actions](https://sonarcloud.io/project/overview?id=magdalena79_darkchess-actions-mpereyra)
+
+[Eclipse Local](https://sonarcloud.io/project/overview?id=magdalena79_darkchess-manual-mpereryra)
+
 
 # Darkchess
 
